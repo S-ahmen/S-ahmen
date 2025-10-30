@@ -15,9 +15,6 @@ Una aplicación simple para gestionar contactos.
 - Permite agregar y eliminar contactos.  
 - Interfaz básica con HTML + CSS.
 
-📘 [Ver guía en PDF](#) *(puedes subir tu PDF a GitHub y poner el enlace aquí)*  
-📂 [Ver código del proyecto](#) *(sube tu proyecto y pon el enlace aquí)*  
-
 ---
 
 ## 🛠️ Tecnologías que uso o estoy aprendiendo
